@@ -220,7 +220,7 @@ function breakStatement(numero) {
   let suma = numero;
   for (let i = 0; i < 10; i++){
     suma = suma + 2;
-    if (suma === i) break;
+    if (suma === i) return 'Se interrumpió la ejecución';
      else {
       NumPlusTwo.push(suma);
     }
