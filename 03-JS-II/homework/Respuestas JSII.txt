@@ -1,0 +1,2 @@
+for: declaración para realizar una accion entorno a algo, mientras se de una condicion.
+&&, ||, ! : Son operadores arigmeticos de comparacion. Retornan un valor booleano.

@@ -1,0 +1,5 @@
+Variables: Nombre otorgado a algo, para poder ser reusado
+Strings: Contenedores de texto.
+Funciones (argumentos, return): Una funcion es una accion, realizada a base de un parametro o argumento, que devolvera o realizará lo que se lo ordene dentro de su bloque.
+Declaraciones if: Establecen una condicion para que se cumpla algo.
+Valores booleanos (true, false): Son valores de logica binaria, donde true es 1, y false es 0

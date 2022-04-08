@@ -1,0 +1,4 @@
+prototype: El prototipo es la rama anterior de la cual proviene un objeto. Ejemplo: El prototipo de un texto entre
+corchetes ("") es una String.
+Constructors (de Clases). Un constructor es una forma de crear un objeto, identificado con un nombre, y con sus 
+propiedades ya preestablecidas.

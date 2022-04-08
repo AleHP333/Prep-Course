@@ -1,0 +1,1 @@
+Funciones Callback: Una función callback, es una función que toma como parametro otra función o que retornan la ejecucion de otra funcion.

@@ -1,0 +1,6 @@
+Objetos: Es una estructura de datos orientada a cuestiones de la vida real. 
+Propiedades: Es la informacion almacenada en un objeto
+Métodos: Un metodo es una propiedad que tiene un objeto para realizar una accion.
+Bucle for…in: Genera un bucle que escanea cada elemento en un objeto.
+Notación de puntos vs notación de corchetes: La notacion por puntos sirve para acceder a las propiedades de un objeto de forma ordenada, desde el Objeto, hasta el contenido. Y la notacion por corchetes sirve para buscar cualquier tipo de informacion en un objeto, sin necesidad de respetar un orden, ya que lo que analiza, es si existe el index del parametro
+escrito entre corchetes.
